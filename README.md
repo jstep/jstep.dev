@@ -1,2 +1,2 @@
 # jstep.dev
-Personal site
+personal site
