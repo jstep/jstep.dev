@@ -1,8 +1,7 @@
+$header-heading-color: #fff !default;
+$header-bg-color: #FBB03B !default;
+$header-bg-color-secondary: #D4145A !default;
 ---
 ---
 
 @import "{{ site.theme }}";
-// Headers
-$header-heading-color: #fff !default;
-$header-bg-color: #FBB03B !default;
-$header-bg-color-secondary: #D4145A !default;
