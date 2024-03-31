@@ -1,5 +1,5 @@
 layout: page
 title: "Curriculum Vitae"
-permalink: https://octocat.github.io/cv
+permalink: https://jstep.dev/cv
 
 TODO
