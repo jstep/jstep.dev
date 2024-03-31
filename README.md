@@ -3,4 +3,6 @@ Personal website
 
 Check out my [CV]({% link cv.md %})
 
-or read [about]({% link about.md %}) me
+Read [about]({% link about.md %}) me
+
+[Contact]({% link contact.md %}) Info
