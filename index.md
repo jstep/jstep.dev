@@ -1,12 +1,8 @@
 ## James Stephaniuk Personal website
 
-Check out my [CV]({% link cv.md %})
+Check out my [CV]({% link cv.md %}), read [about]({% link about.md %}) me, or see my [Contact]({% link contact.md %}) Info
 
-Read [about]({% link about.md %}) me
-
-[Contact]({% link contact.md %}) Info
-
-# Blog posts
+### Blog posts
 <ul>
   {% for post in site.posts %}
     <li>
