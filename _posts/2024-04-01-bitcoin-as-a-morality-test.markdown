@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bitcoin as a Morality Test"
 ---
 
 # Bitcoin as a Morality Test
