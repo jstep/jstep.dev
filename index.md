@@ -1,4 +1,4 @@
-## James Stephaniuk Personal website
+## James Stephaniuk 
 
 Check out my [CV]({% link cv.md %}), read [about]({% link about.md %}) me, or see my [Contact]({% link contact.md %}) Info
 
