@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Bitcoin as a Morality Test"
 ---
 

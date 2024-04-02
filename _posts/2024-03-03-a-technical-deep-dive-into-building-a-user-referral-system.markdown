@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "A Technical Deep Dive into Building a User Referral System"
 ---
 
