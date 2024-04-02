@@ -2,8 +2,6 @@
 title:  "A Technical Deep Dive into Building a User Referral System"
 ---
 
-# A Technical Deep Dive into Building a User Referral System
-
 ![referrals](/assets/Referrals.jpeg)
 
 In today’s competitive landscape, building a robust user referral system is pivotal for companies aiming to expand their user base while nurturing customer loyalty. Let’s delve into the technical intricacies involved in creating such a system for your business.
