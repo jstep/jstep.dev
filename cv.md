@@ -5,7 +5,7 @@ description: Full Stack Developer
 ---
 
 <div style="text-align: center;">
-jstephaniuk@gmail.com • 250-885-4398 • Victoria, BC  
+jimstephaniuk@gmail.com • 250-XXX-XXXX • Victoria, BC  
 [linkedin.com/in/jstephaniuk](https://linkedin.com/in/jstephaniuk) • [github.com/jstep](https://github.com/jstep)
 </div>
 
