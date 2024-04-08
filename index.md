@@ -5,7 +5,7 @@ This is a showcase site of my professional work and writtings.
 
 If you want to see what I've been up to with my life, check out my [CV]({% link cv.md %}).
 
-Get in touch with me via [emaili 📧](mailto:jimstephaniuk@gmail.com)
+Get in touch with me via [email 📧](mailto:jimstephaniuk@gmail.com)
 
 ### Blog posts
 <ul>
