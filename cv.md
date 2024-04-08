@@ -1,9 +1,9 @@
-<div style="text-align: center;">
+---
+layout: default
+title: James Stephaniuk
+description: Full Stack Developer
+---
 
-# JAMES STEPHANIUK
-## Full Stack Developer
-
-</div>  
 <div style="text-align: center;">
 jstephaniuk@gmail.com • 250-885-4398 • Victoria, BC  
 [linkedin.com/in/jstephaniuk](https://linkedin.com/in/jstephaniuk) • [github.com/jstep](https://github.com/jstep)
@@ -11,22 +11,14 @@ jstephaniuk@gmail.com • 250-885-4398 • Victoria, BC
 
 ---
 
-<div style="text-align: center;">
-
 ## Skills
-
-</div>
 
 - **Programming:** TypeScript, Python, React, Node.js, GraphQL, Golang, Git
 - **Database:** PostgreSQL, DynamoDB, Redis, ELK stack, SQL Server, Redshift
 - **DevOps:** AWS, Terraform, GitHub Actions, CircleCI, Sentry, Docker
 - **Data Science:** Jupyter, Pandas, NumPy, Matplotlib, Scikit learn
 
-<div style="text-align: center;">
-
 ## Professional
-
-</div>
 
 ### Defined Finance - Victoria, BC  
 **Software Engineer**  
@@ -84,21 +76,14 @@ jstephaniuk@gmail.com • 250-885-4398 • Victoria, BC
 - Decreased process runtimes by up to 75% by writing custom command-line tools
 - Developed and delivered technical training to educate co-workers to write and use Python
 
-<div style="text-align: center;">
-
 ## Education
-
-</div>
 
 **University of Victoria**  
 *2012*
 
 Bachelor of Science – Geography – Geomatics concentration with co-op designation  
 
-<div style="text-align: center;">
-
 ## Volunteer & Co-op
-</div>
 
 - **Ladies/Girls Learning Code – Mentor**  
   *2016 – 2021*
