@@ -4,10 +4,8 @@ title: James Stephaniuk
 description: Full Stack Developer
 ---
 
-<div style="text-align: center;">
-jimstephaniuk@gmail.com • 250-XXX-XXXX • Victoria, BC  
+[jimstephaniuk@gmail.com](mailto:jimstephaniuk@gmail.com) • 250-XXX-XXXX • Victoria, BC  
 [linkedin.com/in/jstephaniuk](https://linkedin.com/in/jstephaniuk) • [github.com/jstep](https://github.com/jstep)
-</div>
 
 ---
 
