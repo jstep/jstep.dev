@@ -1,9 +1,6 @@
 ---
 title:  "Bitcoin as a Morality Test"
 ---
-
-# Bitcoin as a Morality Test
-
 ![Bitcoin Justice](/assets/JusticeStatueBitcoin.webp)
 
 In the ever-evolving landscape of cryptocurrencies, Bitcoin stands out not only as a digital asset but also as a litmus test of morality. It serves as a mirror reflecting our ethical inclinations, guiding us towards decisions that transcend mere financial gain. As I delve into this concept, I find that Bitcoin's essence not only lies in its technological prowess but also in its ability to shape our moral compass.
