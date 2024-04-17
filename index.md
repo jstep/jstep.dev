@@ -1,7 +1,7 @@
 Hi there 👋 
 I'm James Stephaniuk, a software developer interested in Bitcoin, distributed systems, and Austrian economics.
 
-This is a showcase site of my professional work and writtings.
+This is a showcase site of my professional work and writings.
 
 If you want to see what I've been up to with my professional life, check out my [CV]({% link cv.md %}).
 
