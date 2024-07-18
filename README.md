@@ -1,2 +1,1 @@
 # James Stephaniuk
-Personal website
